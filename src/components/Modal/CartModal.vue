@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import CommonCartButton from '@/components/Common/CommonCartButton'
+import CommonCartButton from '@/components/Common/CommonCartButton.vue'
 import CommonCard from '@/components/Common/CommonCard.vue'
 
 import { useModal } from '@/composables/useModal'
